@@ -1,0 +1,519 @@
+{
+    "id": "1442db07-9187-4f20-9332-904c39d6ec63",
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "apple_goods_id": "",
+    "pack_id": "",
+    "name": "2018地表最强2演唱会 长沙站",
+    "description": "2018地表最强2演唱会 长沙站",
+    "icon": "666a7cd0-a1b1-4cda-832c-861a7e0ce328",
+    "thumbnail": "d35db246-4795-4443-8807-8ffacaf9257f",
+    "image_list": ["abee066c-6bba-49d7-b635-26cf1b87aa7d"],
+    "category": 105000000,
+    "type": 0,
+    "init_volume": 0,
+    "real_volume": 400,
+    "show_volume": 400,
+    "status": 1,
+    "shelf_time": 1525255200000,
+    "off_shelf_time": 2114265600000,
+    "shelf_andriod": 1,
+    "shelf_ios": 1,
+    "shelf_web": 0,
+    "hot": 0,
+    "sale_strategy": {
+    "pattern": 0,
+        "reset_time": 0,
+        "quantity": 0,
+        "person_quantity": 0,
+        "my_quantity": 0
+},
+    "tag": "3",
+    "create_time": 1525252413342,
+    "update_time": 1525255437237,
+    "del_flag": 0,
+    "shop_id": "0",
+    "pickup_type": 0,
+    "selftakes_id": [],
+    "advertise": 0,
+    "sku": [{
+    "id": 395,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 8,
+    "paid": 261,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 577,
+        "sku_id": 395,
+        "name": "演出时间",
+        "value": "2018-05-11 周五"
+    }, {
+        "id": 578,
+        "sku_id": 395,
+        "name": "选择票价",
+        "value": "380（看台）"
+    }],
+    "price": [{
+        "id": 659,
+        "sku_id": 395,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 380.00,
+        "vip_price": 380.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 396,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 0,
+    "paid": 6,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 579,
+        "sku_id": 396,
+        "name": "演出时间",
+        "value": "2018-05-11 周五"
+    }, {
+        "id": 580,
+        "sku_id": 396,
+        "name": "选择票价",
+        "value": "580（看台）"
+    }],
+    "price": [{
+        "id": 660,
+        "sku_id": 396,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 580.00,
+        "vip_price": 580.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 397,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 6,
+    "paid": 0,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 581,
+        "sku_id": 397,
+        "name": "演出时间",
+        "value": "2018-05-11 周五"
+    }, {
+        "id": 582,
+        "sku_id": 397,
+        "name": "选择票价",
+        "value": "780（看台）"
+    }],
+    "price": [{
+        "id": 661,
+        "sku_id": 397,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 780.00,
+        "vip_price": 780.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 398,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 4,
+    "paid": 2,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 583,
+        "sku_id": 398,
+        "name": "演出时间",
+        "value": "2018-05-11 周五"
+    }, {
+        "id": 584,
+        "sku_id": 398,
+        "name": "选择票价",
+        "value": "1280（内场）"
+    }],
+    "price": [{
+        "id": 662,
+        "sku_id": 398,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1280.00,
+        "vip_price": 1280.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 399,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 4,
+    "paid": 6,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 585,
+        "sku_id": 399,
+        "name": "演出时间",
+        "value": "2018-05-11 周五"
+    }, {
+        "id": 586,
+        "sku_id": 399,
+        "name": "选择票价",
+        "value": "1680（内场）"
+    }],
+    "price": [{
+        "id": 663,
+        "sku_id": 399,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1680.00,
+        "vip_price": 1680.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 400,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 2,
+    "paid": 2,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 587,
+        "sku_id": 400,
+        "name": "演出时间",
+        "value": "2018-05-11 周五"
+    }, {
+        "id": 588,
+        "sku_id": 400,
+        "name": "选择票价",
+        "value": "1980（内场）"
+    }],
+    "price": [{
+        "id": 664,
+        "sku_id": 400,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1980.00,
+        "vip_price": 1980.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 401,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 0,
+    "paid": 6,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 589,
+        "sku_id": 401,
+        "name": "演出时间",
+        "value": "2018-05-11 周五"
+    }, {
+        "id": 590,
+        "sku_id": 401,
+        "name": "选择票价",
+        "value": "1980（精选）"
+    }],
+    "price": [{
+        "id": 665,
+        "sku_id": 401,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1980.00,
+        "vip_price": 1980.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 402,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 13,
+    "paid": 47,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 591,
+        "sku_id": 402,
+        "name": "演出时间",
+        "value": "2018-05-12 周六"
+    }, {
+        "id": 592,
+        "sku_id": 402,
+        "name": "选择票价",
+        "value": "380（看台）"
+    }],
+    "price": [{
+        "id": 666,
+        "sku_id": 402,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 380.00,
+        "vip_price": 380.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 403,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 0,
+    "paid": 20,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 593,
+        "sku_id": 403,
+        "name": "演出时间",
+        "value": "2018-05-12 周六"
+    }, {
+        "id": 594,
+        "sku_id": 403,
+        "name": "选择票价",
+        "value": "580（看台）"
+    }],
+    "price": [{
+        "id": 667,
+        "sku_id": 403,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 580.00,
+        "vip_price": 580.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 404,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 2,
+    "paid": 18,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 595,
+        "sku_id": 404,
+        "name": "演出时间",
+        "value": "2018-05-12 周六"
+    }, {
+        "id": 596,
+        "sku_id": 404,
+        "name": "选择票价",
+        "value": "780（看台）"
+    }],
+    "price": [{
+        "id": 668,
+        "sku_id": 404,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 780.00,
+        "vip_price": 780.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 405,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 2,
+    "paid": 8,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 597,
+        "sku_id": 405,
+        "name": "演出时间",
+        "value": "2018-05-12 周六"
+    }, {
+        "id": 598,
+        "sku_id": 405,
+        "name": "选择票价",
+        "value": "1280（内场）"
+    }],
+    "price": [{
+        "id": 669,
+        "sku_id": 405,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1280.00,
+        "vip_price": 1280.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 406,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 2,
+    "paid": 6,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 599,
+        "sku_id": 406,
+        "name": "演出时间",
+        "value": "2018-05-12 周六"
+    }, {
+        "id": 600,
+        "sku_id": 406,
+        "name": "选择票价",
+        "value": "1680（内场）"
+    }],
+    "price": [{
+        "id": 670,
+        "sku_id": 406,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1680.00,
+        "vip_price": 1680.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 407,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 2,
+    "paid": 12,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 601,
+        "sku_id": 407,
+        "name": "演出时间",
+        "value": "2018-05-12 周六"
+    }, {
+        "id": 602,
+        "sku_id": 407,
+        "name": "选择票价",
+        "value": "1980（内场）"
+    }],
+    "price": [{
+        "id": 671,
+        "sku_id": 407,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1980.00,
+        "vip_price": 1980.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}, {
+    "id": 408,
+    "product_id": "aeddef88-b9da-4f0d-884f-f62833ad6ccb",
+    "inventory": 0,
+    "inventory_incrby": 0,
+    "unpaid": 0,
+    "paid": 6,
+    "delivered": 0,
+    "description": "",
+    "img_ids": "",
+    "form_id": "",
+    "is_on_shelf": 0,
+    "attributes": [{
+        "id": 603,
+        "sku_id": 408,
+        "name": "演出时间",
+        "value": "2018-05-12 周六"
+    }, {
+        "id": 604,
+        "sku_id": 408,
+        "name": "选择票价",
+        "value": "1980（精选）"
+    }],
+    "price": [{
+        "id": 672,
+        "sku_id": 408,
+        "goods_id": "1442db07-9187-4f20-9332-904c39d6ec63",
+        "pay_type": 1,
+        "old_price": 0.00,
+        "new_price": 1980.00,
+        "vip_price": 1980.00,
+        "currency": "CHANNEL_CASH"
+    }]
+}],
+    "ship_fee": 0.0,
+    "detail": "<html>\n            \n            <head>\n              <meta charset=\"utf-8\">\n              <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n              <meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no\">\n              <title></title>\n              <style>\n              html,\n              body {\n                -moz-box-sizing: border-box;\n                -webkit-box-sizing: border-box;\n                box-sizing: border-box;\n                margin: 0;\n                height: 100%;\n              }\n            \n              body {\n                padding: 1em;\n                background: transparent;\n                color: #333;\n                font: 13px/1.5 Helvetica, arial, sans-serif;\n                cursor: text;\n              }\n            \n              a {\n                text-decoration: underline;\n              }\n            \n              img {\n                vertical-align: middle;\n              }\n            \n              h1 {\n                margin: 1em;\n                font-size: 138.5%;\n              }\n            \n              h2 {\n                margin: 1em;\n                font-size: 123.1%;\n              }\n            \n              h3 {\n                margin: 1em;\n                font-size: 108%;\n              }\n            \n              h4,\n              h5,\n              h6 {\n                margin: 0;\n              }\n            \n              p {\n                margin: 1em;\n              }\n            \n              ul,\n              ol {\n                margin: 0 1em;\n                padding: 0 1em;\n              }\n            \n              blockquote {\n                border-left: 2px solid blue;\n                margin: 0;\n                padding: 0 10px;\n              }\n            \n              .editor-object {\n                border: 1px solid blue;\n              }\n            \n              .editor-objec-video {\n                background-color: rgb(240, 120, 0);\n              }\n            \n              .editor-objec-audio {\n                background-color: rgb(120, 240, 0);\n              }\n            \n              img {\n                max-width: 100%;\n                height: auto;\n              }\n              </style>\n            </head>\n            \n            <body>\n              <h2 style=\"text-align: center;\"><strong>地表最强2 2018周杰伦世界巡回演唱会</strong></h2>\n            \n            <p style=\"text-align: center;\"><b>2018.05.11&nbsp;- 2018.05.12&nbsp;长沙贺龙体育中心体育场</b></p>\n            \n            <hr />\n            <p style=\"text-align: center;\">全新的一年，全新的地表最强！</p>\n            \n            <p style=\"text-align: center;\">地表最强2如约而至，你准备好了吗？</p>\n            \n            <p style=\"text-align: center;\">相约成都，一起见证会有怎样的惊喜吧！</p>\n            \n            <p style=\"text-align: center;\">&nbsp;</p>\n            \n            <p style=\"text-align: center;\">销售时间：2018.05.02&nbsp;18:00</p>\n            \n            <p style=\"text-align: center;\">&nbsp;</p>\n            \n            <p style=\"text-align: center;\"><strong>【特别提醒】</strong></p>\n            \n            <p style=\"text-align: center;\">下单前请认真确认对应场次、票价，购买成功后不支持退换。</p>\n            \n            <p style=\"text-align: center;\">每张门票需消耗一张&ldquo;购票资格券&rdquo;，订单生成后资格即被使用。</p>\n            \n            <p>&nbsp;</p>\n            \n            <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\"><strong>购买须知：</strong></div>\n            \n            <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">1、付款时效提醒：下单成功后需在15分钟内完成支付；</div>\n            \n            <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">2、门票默认顺丰到付，预计演出前1-2周完成发货，请耐心等待；</div>\n            \n            <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">3、不支持选座，购买成功后不支持退换，请确定后再下单；</div>\n            \n            <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">4、不支持修改订单，请认真确认收件信息，以免造成不便；</div>\n            \n            <div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">5、若购买出现异常，我们将于20个工作日内为您安排退款；</div>\n            </body>\n            \n            </html>\n            ",
+    "detail_body": "<h2 style=\"text-align: center;\"><strong>地表最强2 2018周杰伦世界巡回演唱会</strong></h2>\n\n<p style=\"text-align: center;\"><b>2018.05.11&nbsp;- 2018.05.12&nbsp;长沙贺龙体育中心体育场</b></p>\n\n<hr />\n<p style=\"text-align: center;\">全新的一年，全新的地表最强！</p>\n\n<p style=\"text-align: center;\">地表最强2如约而至，你准备好了吗？</p>\n\n<p style=\"text-align: center;\">相约成都，一起见证会有怎样的惊喜吧！</p>\n\n<p style=\"text-align: center;\">&nbsp;</p>\n\n<p style=\"text-align: center;\">销售时间：2018.05.02&nbsp;18:00</p>\n\n<p style=\"text-align: center;\">&nbsp;</p>\n\n<p style=\"text-align: center;\"><strong>【特别提醒】</strong></p>\n\n<p style=\"text-align: center;\">下单前请认真确认对应场次、票价，购买成功后不支持退换。</p>\n\n<p style=\"text-align: center;\">每张门票需消耗一张&ldquo;购票资格券&rdquo;，订单生成后资格即被使用。</p>\n\n<p>&nbsp;</p>\n\n<div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\"><strong>购买须知：</strong></div>\n\n<div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">1、付款时效提醒：下单成功后需在15分钟内完成支付；</div>\n\n<div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">2、门票默认顺丰到付，预计演出前1-2周完成发货，请耐心等待；</div>\n\n<div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">3、不支持选座，购买成功后不支持退换，请确定后再下单；</div>\n\n<div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">4、不支持修改订单，请认真确认收件信息，以免造成不便；</div>\n\n<div style=\"background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;\">5、若购买出现异常，我们将于20个工作日内为您安排退款；</div>",
+    "with_bill": 0,
+    "is_vip_only": 1,
+    "is_giftable": 0,
+    "show_after_sale_terms": 0,
+    "vip_discount": 0.0,
+    "rebate_type": "none",
+    "rebate_amount": 0.0,
+    "wallet_account_id": "shop",
+    "start_time": 0,
+    "end_time": 0,
+    "address": "",
+    "ticket_pack_id": 10383,
+    "ticket_deduction": 1,
+    "ticket_url_web": "",
+    "ticket_url_cmp": "cmp://com.nd.pbl.vip-component/vipcenter"
+}

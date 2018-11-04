@@ -1,0 +1,2 @@
+name=%E5%BC%A0%E7%AB%A5&card=290032&token=49b14c0c65971473d4a1a6443d4775e6&qq=416259557&phone=18217666131&goodsid=36940&userid=4540555&addressId=2387417&goodsNum=3&goodsType=2
+name=%E9%99%88%E6%96%8C%E6%9D%B0&card=100396&token=29678356793c53d3625b9b64d3dbf8cd&qq=1162601310&phone=18500519312&goodsid=36940&userid=4541252&addressId=2388085&goodsNum=3&goodsType=2
